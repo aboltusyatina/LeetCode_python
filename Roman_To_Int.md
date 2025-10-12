@@ -1,4 +1,17 @@
-13. Roman to Integer
+# 13. Roman to Integer
+
+Convert a Roman numeral to an integer.
+
+
+Examples:
+- "III" -> 3
+- "IV" -> 4
+- "IX" -> 9
+- "LVIII" -> 58
+- "MCMXCIV" -> 1994
+
+
+```python
 def romanToInt(s: str) -> int:
     roman_map = {
         'I': 1, 'V': 5, 'X': 10,
@@ -27,9 +40,9 @@ def romanToInt(s: str) -> int:
 while True:
     a = input("Write roman numbers: ")
     print("Sum of roman numbers: ", romanToInt(a))
+```
 
-
-
+```python
 class Solution:
     def romanToInt(self, s: str) -> int:
         roman_map = {
@@ -47,3 +60,4 @@ class Solution:
                 total -= roman_map[i]
             prev = roman_map[i]    
         return total
+```
