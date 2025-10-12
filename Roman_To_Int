@@ -1,3 +1,5 @@
+##Roman to Integer
+```
 def romanToInt(s: str) -> int:
     roman_map = {
         'I': 1, 'V': 5, 'X': 10,
@@ -26,3 +28,4 @@ def romanToInt(s: str) -> int:
 while True:
     a = input("Write roman numbers: ")
     print("Sum of roman numbers: ", romanToInt(a))
+```
