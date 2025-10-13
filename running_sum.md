@@ -1,3 +1,6 @@
+#1480. Running sum of 1 d array - LeetCode
+
+```python
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
         prev = 0
@@ -5,3 +8,4 @@ class Solution:
             nums[i] = nums[i] + prev
             prev = nums[i]
         return nums
+```
