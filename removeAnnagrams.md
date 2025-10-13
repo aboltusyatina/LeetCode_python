@@ -7,7 +7,7 @@ Return words after performing all operations. It can be shown that selecting the
 
 An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase using all the original letters exactly once. For example, "dacb" is an anagram of "abdc".
 
- 
+--- 
 
 Example 1:
 
@@ -29,6 +29,8 @@ Input: words = ["a","b","c","d","e"]
 Output: ["a","b","c","d","e"]
 Explanation:
 No two adjacent strings in words are anagrams of each other, so no operations are performed.
+
+# Code
 ```python
 class Solution:
     def removeAnagrams(self, words: List[str]) -> List[str]:
