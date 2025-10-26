@@ -1,3 +1,4 @@
+#1716. Calculate Money in Leetcode Bank 
 ```python
 class Solution:
     def totalMoney(self, n: int) -> int:
