@@ -20,7 +20,7 @@ class Solution:
         return sum
 ```
 
-##Second version
+## Second version
 ```python
 class Solution:
     def scoreOfString(self, s: str) -> int:
