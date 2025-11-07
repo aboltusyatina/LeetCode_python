@@ -23,8 +23,14 @@ This repository contains solutions to LeetCode problems in Python. Each folder c
 | Project Name            | Link                                                                                         |
 |------------------------ |---------------------------------------------------------------------------------------------|
 | 383. Ransom Note        | [GitHub](RansomNote.md)                                                  |
-
-<!-- Add more projects below as needed -->
-<!-- | Project2             | [GitHub](https://github.com/aboltusyatina/Project2)                                         | -->
+| 412. Fizz Buzz          | [GitHub](FizzBuzz.md)                                                  |
+| 13. Roman to Integer    | [GitHub](Roman_To_Int.md)                                                  |
+| 3110. Score of a String | [GitHub](ScoreOfString.md)                                                  |
+| 1. Two Sum              | [GitHub](TwoSum.md)                                                  |
+| 12. Integer To Roman    | [GitHub](intToRoman.md)                                                  |
+| 2273. Find Resultant Array After Removing Anagrams | [GitHub](removeAnnagrams.md)                                                  |
+| 1672. Richest Customer Wealth | [GitHub](richest_customer.md)                                                  |
+| 1480. Running Sum of 1d Array | [GitHub](running_sum.md)                                                  |
+| 1716. Calculate Money in Leetcode Bank | [GitHub](LeetCode_Bank.md)                                                  |
 
 ---
