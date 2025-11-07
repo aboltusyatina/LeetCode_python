@@ -20,6 +20,8 @@ class Solution:
         return sum
 ```
 
+
+
 ## Second version
 ```python
 class Solution:
