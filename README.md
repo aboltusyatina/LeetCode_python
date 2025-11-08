@@ -27,6 +27,7 @@ This repository contains solutions to LeetCode problems in Python. Each folder c
 | 13. Roman to Integer    | [GitHub](Roman_To_Int.md)                                                |
 | 383. Ransom Note        | [GitHub](RansomNote.md)                                                  |
 | 412. Fizz Buzz          | [GitHub](FizzBuzz.md)                                                    |
+| 1342. Number of Steps to Reduce a Number to Zero          | [GitHub](NumberOfSteps.md)             |
 | 1480. Running Sum of 1d Array | [GitHub](running_sum.md)                                           |
 | 1672. Richest Customer Wealth | [GitHub](richest_customer.md)                                      |
 | 1716. Calculate Money in Leetcode Bank | [GitHub](LeetCode_Bank.md)                                |
